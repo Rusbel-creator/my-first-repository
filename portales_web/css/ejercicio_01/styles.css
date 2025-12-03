@@ -1,0 +1,32 @@
+body{
+    background-color: #48e;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.Rusbel__box{
+    width: 400px;
+    height: 100px;
+    background-color: #ffe;
+    text-align: justify;
+    margin: auto;
+    border: 2px solid #000;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.Joshua__box{
+    width: 400px;
+    height: 100px;
+    background-color: #ffe;
+    text-align: justify;
+    margin: auto;
+    border: 2px solid #000;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 10px;
+}

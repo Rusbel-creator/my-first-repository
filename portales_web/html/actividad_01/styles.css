@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #ffe;
+}
+
+.nav__title {
+    text-align: center;
+    margin: 0;
+}
+
+.nav__container {
+    background-color: #48e;
+    text-align: center;
+    height: 52px;
+}
+
+.nav__exer {
+    background-color: #fff;
+    color: #48e;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin: 8px;
+    border-radius: 4px;
+    display: inline-block;
+    transition: 600ms;
+}
+
+.nav__exer:hover {
+    background-color: transparent;
+    color: #fff;
+    margin: 0;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+
+.nav__exer:active {
+    background-color: #cee1ff;
+}
